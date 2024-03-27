@@ -1,0 +1,8 @@
+python ==3.9
+langchain
+python-dotenv
+langserve
+fastapi
+uvicorn
+anthropic
+sse_starlette
